@@ -18,8 +18,8 @@ It also includes utilities to simulate **Quantum Diamond Microscope (QDM)** nois
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-org>/<your-repo>.git
-   cd <your-repo>/TetraModels
+   gh repo clone bellon-donardelli/Stray-fields
+   cd Stray-fields/TetraModels
 
 ## Contact 
 
