@@ -28,9 +28,8 @@ ualisson.bellon@ed.ac.uk
 
 ## Data Repository and Citation
 
-If you use this repository, please cite:
- 
-[https://doi.org/10.5281/zenodo.17256342](https://doi.org/10.5281/zenodo.17256342)
+If you use this repository, please cite: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17256342.svg)](https://doi.org/10.5281/zenodo.17256342)
+
 
 
 
