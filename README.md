@@ -26,6 +26,13 @@ It also includes utilities to simulate **Quantum Diamond Microscope (QDM)** nois
 For questions or collaboration:
 ualisson.bellon@ed.ac.uk
 
+## Data Repository and Citation
+
+If you use this repository, please cite:
+ 
+[https://doi.org/10.5281/zenodo.17256342](https://doi.org/10.5281/zenodo.17256342)
+
+
 
 ## Authors
 
